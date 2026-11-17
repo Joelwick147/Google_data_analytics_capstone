@@ -1,2 +1,5 @@
-data/raw/
+data/raw_data/
+data/processed_data
+*.csv
+
 __pycache__/
